@@ -1,0 +1,9 @@
+c:\users\hpl\documents\visual studio 2015\Projects\Automata_unidimensional\Automata_unidimensional\bin\Debug\Automata_unidimensional.exe.config
+c:\users\hpl\documents\visual studio 2015\Projects\Automata_unidimensional\Automata_unidimensional\obj\Debug\Automata_unidimensional.csprojResolveAssemblyReference.cache
+c:\users\hpl\documents\visual studio 2015\Projects\Automata_unidimensional\Automata_unidimensional\obj\Debug\Automata_unidimensional.Form1.resources
+c:\users\hpl\documents\visual studio 2015\Projects\Automata_unidimensional\Automata_unidimensional\obj\Debug\Automata_unidimensional.Properties.Resources.resources
+c:\users\hpl\documents\visual studio 2015\Projects\Automata_unidimensional\Automata_unidimensional\obj\Debug\Automata_unidimensional.csproj.GenerateResource.Cache
+c:\users\hpl\documents\visual studio 2015\Projects\Automata_unidimensional\Automata_unidimensional\bin\Debug\Automata_unidimensional.exe
+c:\users\hpl\documents\visual studio 2015\Projects\Automata_unidimensional\Automata_unidimensional\bin\Debug\Automata_unidimensional.pdb
+c:\users\hpl\documents\visual studio 2015\Projects\Automata_unidimensional\Automata_unidimensional\obj\Debug\Automata_unidimensional.exe
+c:\users\hpl\documents\visual studio 2015\Projects\Automata_unidimensional\Automata_unidimensional\obj\Debug\Automata_unidimensional.pdb
